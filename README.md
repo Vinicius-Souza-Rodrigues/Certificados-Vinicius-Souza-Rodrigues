@@ -10,29 +10,5 @@ Sou um desenvolvedor **Fullstack** com foco em **React**, **Redux**, **Tailwind*
 
 ---
 
-## 📚 Certificados disponíveis
-
-Os certificados estão organizados por área de estudo e tecnologia. Exemplos:
-
-- **Frontend**
-  - React JS
-  - Redux Toolkit
-  - Tailwind CSS
-- **Backend**
-  - Node.js
-  - Express.js
-  - PostgreSQL
-- **DevOps / Ferramentas**
-  - Git e GitHub
-  - Docker (em breve)
-- **Outros**
-  - Lógica de programação
-  - APIs REST
-  - Testes automatizados (futuros)
-
 > ⚠️ Este repositório é atualizado regularmente conforme novos cursos são concluídos.
-
----
-
-## 🗂️ Estrutura do repositório
 
